@@ -1,16 +1,35 @@
-## Hi there 👋
+##👋 Hi, I'm Nicole
+Connectivity and Network Engineer | Full Stack Developer
 
-<!--
-**niconstvc/niconstvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate engineer with experience in networking and web development. 💻✨ I enjoy every aspect of my work, find it fun, and always strive to stay calm and stress-free. 🙌 I love what I do, and that makes me happy! 😄
 
-Here are some ideas to get you started:
+🚀 Skills
+Network services administration
+Small to medium network security
+Graphic technician
+Computer support
+Network infrastructure support
+Programming Languages: JavaScript, Node.js, SQL, HTML, CSS
+Frameworks/Libraries: React, Express, Vite, Bootstrap
+Databases: PostgreSQL, MySQL, HeidiSQL
+Development Tools: Git, Docker, Render, Postman, Thunder Client
+Other: JWT, bcrypt, Testing (Supertest), REST API, CORS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Education
+Connectivity and Network Engineering - Duoc UC, 2021.
+Data Analysis - Desafío Latam, 2023.
+Full Stack JavaScript Development - Desafío Latam, 2024.
+
+🌱 Currently Learning
+Fortinet NSE4
+Ethical Hacking and Cybersecurity
+PHP
+Python
+Power BI
+
+📫 Get in Touch
+LinkedIn: Nicole Constanza Villarreal Caballero
+
+⚡ Fun Fact
+I love riding my bike outdoors 🚴‍♀️ and then sitting down to code or study. It’s my perfect way to balance mind and body! 😊
+
