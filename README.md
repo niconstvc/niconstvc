@@ -7,10 +7,9 @@ I’m a **passionate engineer** with experience in **networking** and **web deve
 ---
 
 ### 🚀 **Skills**
-
+- **Graphic technician**
 - **Network services administration**
 - **Small to medium network security**
-- **Graphic technician**
 - **Computer support**
 - **Network infrastructure support**
 - **Programming Languages**: JavaScript, Node.js, SQL, HTML, CSS
