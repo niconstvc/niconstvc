@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nicole
 
-**Connectivity and Network Engineer | Full Stack Developer**
+**Connectivity and Network Engineer | Full Stack JavaScrip Developer**
 
 I’m a **passionate engineer** with experience in **networking** and **web development**. 💻✨ I enjoy every aspect of my work, find it fun, and always strive to stay calm and stress-free. 🙌 I love what I do, and that makes me happy! 😄
 
