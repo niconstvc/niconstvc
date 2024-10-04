@@ -22,7 +22,13 @@ I’m a **passionate engineer** with experience in **networking** and **web deve
 
 ### 📚 **Education**
 
+- **Graphic Technician** - Colegio San Lorenzo, 2013
 - **Connectivity and Network Engineering** - Duoc UC, 2021.
+
+---
+
+### ⚖️ **Certifications**
+
 - **Data Analysis** - Desafío Latam, 2023.
 - **Full Stack JavaScript Development** - Desafío Latam, 2024.
 
