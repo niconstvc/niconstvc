@@ -1,57 +1,92 @@
-# 👋 Hi, I'm Nicole
+# 👋 Hey there! I'm Nicole Villarreal
 
-**Connectivity and Network Engineer**
+### 💻 Connectivity & Network Engineer | Web Developer | Tech Enthusiast
 
-I’m a **passionate engineer** with experience in **networking** and **web development**. 💻✨ I enjoy every aspect of my work, find it fun, and always strive to stay calm and stress-free. 🙌 I love what I do, and that makes me happy! 😄
+Welcome to my corner of GitHub! 🚀
 
----
+I'm a **Connectivity and Network Engineer** passionate about technology, networking, infrastructure, cybersecurity, and software development.
 
-### 🚀 **Skills**
-- **Graphic technician**
-- **Network services administration**
-- **Small to medium network security**
-- **Computer support**
-- **Network infrastructure support**
-- **Programming Languages**: JavaScript, Node.js, SQL, HTML, CSS
-- **Frameworks/Libraries**: React, Express, Vite, Bootstrap
-- **Databases**: PostgreSQL, MySQL, HeidiSQL
-- **Development Tools**: Git, Docker, Render, Postman, Thunder Client
-- **Other**: JWT, bcrypt, Testing (Supertest), REST API, CORS
+I enjoy exploring new technologies, solving problems, building solutions, and continuously learning. For me, technology isn't just my profession — it's something I genuinely love.
+
+I believe in staying curious, keeping things simple, and enjoying the journey along the way. ✨
 
 ---
 
-### 📚 **Education**
+### 🛠️ Tech Stack & Skills
 
-- **Graphic Technician** - Colegio San Lorenzo, 2013
-- **Connectivity and Network Engineering** - Duoc UC, 2021.
+**🌐 Networking & Infrastructure**
+- Network Services Administration
+- Network Infrastructure & Troubleshooting
+- Network Security (Small and Medium-Sized Networks)
+- IT Support & Systems Administration
+- Monitoring & Network Management
+
+**💻 Programming & Development**
+- JavaScript | Node.js | PHP | Python | SQL
+- HTML5 | CSS3
+- React | Express | Vite | Bootstrap
+- REST APIs | JWT | bcrypt | CORS
+
+**🗄️ Databases**
+- PostgreSQL
+- MySQL
+- HeidiSQL
+
+**⚙️ Tools & Technologies**
+- Git & GitHub
+- Docker
+- Postman & Thunder Client
+- Render
+- Supertest
 
 ---
 
-### ⚖️ **Certifications**
+### 🎓 Education
 
-- **Data Analysis** - Desafío Latam, 2023.
-- **Full Stack JavaScript Development** - Desafío Latam, 2024.
-
----
-
-### 🌱 **Currently Learning**
-
-- **Fortinet NSE4**
-- **Ethical Hacking and Cybersecurity**
-- **PHP**
-- **Python**
-- **Power BI**
+- 🎨 **Graphic Technician** — Colegio San Lorenzo (2013)
+- 🌐 **Connectivity and Network Engineering** — Duoc UC (2021)
 
 ---
 
-### 📫 **Get in Touch**
+### 🏅 Certifications
 
-- **LinkedIn**: [Nicole Constanza Villarreal Caballero](https://www.linkedin.com/in/nicole-constanza-villarreal-caballero-478257149/)
+- 📊 Data Analysis — Desafío Latam (2023)
+- 💻 Full Stack JavaScript Development — Desafío Latam (2024)
+- 🔐 Cisco Networking Academy — Introduction to Cybersecurity (2025)
 
 ---
 
-### ⚡ **Fun Fact**
+### 🌱 Currently Exploring
 
-I love riding my bike outdoors 🚴‍♀️ and then sitting down to code or study. It’s my perfect way to balance mind and body! 😊
+- 🔥 Fortinet & Network Security
+- 🛡️ Ethical Hacking & Cybersecurity
+- 🐍 Python Development
+- 🐘 PHP Development
+- 📊 Power BI & Data Analytics
 
+---
+
+### 🚴‍♀️ Beyond the Keyboard
+
+Technology is a big part of my life, but balance is important too!
+
+When I'm not working or coding, you'll probably find me:
+
+- 🚶‍♀️ Walking and enjoying long outdoor walks.
+- 🏋️‍♀️ At the gym, building strength and challenging myself.
+- 🚴‍♀️ Riding my bike and exploring new places.
+- 📚 Learning something new or working on a personal project.
+
+**My current obsession? Walking and going to the gym like it's a full-time job.** 😂💪
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 **LinkedIn:** [Nicole Constanza Villarreal Caballero](https://www.linkedin.com/in/nicole-constanza-villarreal-caballero-478257149/)
+- 🐙 **GitHub:** You're already here!
+
+---
+
+<sub>✨ Always learning, always building, always moving forward. One line of code and one step at a time.</sub>
 
